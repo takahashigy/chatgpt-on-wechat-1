@@ -11,7 +11,7 @@
     "tool": {
         "tools": [
             "python",
-            "url-get",
+            "url-get": https://api.open-meteo.com/v1/forecast?latitude=35&longitude=105&hourly=temperature_2m&daily=temperature_2m_max,temperature_2m_min,sunrise,sunset,uv_index_max,precipitation_sum,precipitation_probability_max,windspeed_10m_max&current_weather=true&timezone=auto,
             "terminal",
             "meteo-weather"
         ],
